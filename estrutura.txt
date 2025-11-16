@@ -1,0 +1,6 @@
+audio_to_word/
+├── main.py
+├── ui_main.py
+├── templates/
+│   └── report_template.html
+└── requirements.txt
